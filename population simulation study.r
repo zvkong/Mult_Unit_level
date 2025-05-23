@@ -1,5 +1,5 @@
 # Load required library
-source('./code/wt share ran.r')
+source('./model.r')
 library(dplyr); library(ggplot2);library(readr); library(coda)
 library(sampling);library(tidyr)
 library(HDInterval)
